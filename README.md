@@ -38,4 +38,5 @@ I hope this is useful for you.😎
 → A. Let's wrap the loss function with another function.
 
 
-# Kerasでの自作損失関数の作成方法
+
+\# Kerasでの自作損失関数の作成方法
