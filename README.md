@@ -36,3 +36,6 @@ I hope this is useful for you.😎
 → Custom Loss function usually receive only (y_true and y_pred).  
 → Q. When you get loss function to get other paramerters.  
 → A. Let's wrap the loss function with another function.
+
+
+# Kerasでの自作損失関数の作成方法
